@@ -1,6 +1,6 @@
 ![logo](https://github.com/fareehaabbasi/fareehaabbasi/blob/main/Beige%20Pink%20Creative%20Designer%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Fareeha Abbasi</h1>
-<h3 align="center">Front-end development from Pakistan.</h3>
+<h3 align="center">Front-end developer from Pakistan.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
