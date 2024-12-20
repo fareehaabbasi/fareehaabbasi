@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN stack development at SMIT**
 
-- 💬 Ask me about **Javascript, Mern**
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **abbasifareeha9@gmail.com**
 
