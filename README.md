@@ -42,7 +42,7 @@
   </a>
   <!-- Github -->
   <a href="https://github.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/github/ffffff/000000" width="40" height="40" alt="github"/>
+  <img src="https://cdn.simpleicons.org/github/000000/ffffff" width="40" height="40" alt="github"/>
   </a>
   <!-- Photoshop -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
