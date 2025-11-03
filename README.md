@@ -41,8 +41,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <!-- Github -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="filter:brightness(1000);"/>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/github/ffffff/000000" width="40" height="40" alt="github"/>
   </a>
   <!-- Photoshop -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
